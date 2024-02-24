@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Netflix Project",
+    "imageSrc": "projects/netflixProject.png",
+    "description": "Built a Netflix-inspired project allowing users to save favorite movies, featuring user authentication with login and registration functionalities.",
+    "skills": ["React", "Express", "TailwindCSS", "Firebase"],
+    "demo": "https://netflix-project-17e9a.web.app/",
+    "source": "https://github.com/TaiVanNgo/netflix-react-js"
+  },
+  {
+    "title": "Bank Time Application",
+    "imageSrc": "projects/banktimeProject.png",
+    "description": "This project, part of my C++ course for booking tasks and services. It allows users to easily schedule appointments, and manage bookings. The project demonstrates my C++ skills in creating practical solutions.",
+    "skills": ["C++", "OOP"],
+    "demo": "https://github.com/Kyle8Bits/SED_BankTimeApplication/tree/main",
+    "source": "https://github.com/Kyle8Bits/SED_BankTimeApplication/tree/main"
+  },
+  {
+    "title": "GFCC Website",
+    "imageSrc": "projects/GFCCproject.png",
+    "description": "Constructed by a team of 4 to 5 individuals, this website serves as a platform for a club aimed at facilitating the upload of helpful tips and samples for assignments.",
+    "skills": ["React", "MongoDB", "Node"],
+    "demo": "http://localhost:3000/",
+    "source": "https://github.com/phatgg221/Club_web_project"
+  }
+]

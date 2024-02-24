@@ -33,6 +33,13 @@
   text-decoration: none;
 }
 
+@media screen and (min-width: 830px) {
+  .menuBtn {
+    display: none; /* Hide the menu icon on small screens */
+  }
+
+}
+
 @media screen and (max-width: 830px){
   .navbar{
     flex-direction: column;
